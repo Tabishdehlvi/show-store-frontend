@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import Wrapper from './Wrapper';
 import Link from 'next/link';
 import Menu from './Menu';
-import MenuMobile from './Menumobile';
+import MenuMobile from './MenuMobile';
 
 import { IoMdHeartEmpty } from "react-icons/io";
 import { BsCart } from "react-icons/bs";
